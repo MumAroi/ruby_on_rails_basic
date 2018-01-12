@@ -1,0 +1,2 @@
+module AeticlesHelper
+end
